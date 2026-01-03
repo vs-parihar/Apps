@@ -1,0 +1,34 @@
+{
+  "t": "VS",
+  "s": "",
+  "m": "t",
+  "tg1": "#00f2fe",
+  "tg2": "#3e55a8",
+  "se": [
+    {
+      "n": "Working",
+      "t": "#3869a1",
+      "b1": "#000000",
+      "b2": "#212d38",
+      "c1": "#2d94ba",
+      "c2": "#3e5c8a"
+    }
+  ],
+  "a": [
+    {
+      "n": "Steno complete ",
+      "u": "https://vs-parihar.github.io/Steno-Checker/",
+      "d": "Practice ",
+      "i": "",
+      "m": "emb",
+      "s": 0
+    }
+  ],
+  "so": [
+    {
+      "n": "Discord",
+      "u": "#",
+      "i": "<path d=\"M15 10l-4 4l6 6l4-16l-18 7l4 2l2 6l3-4\"/>"
+    }
+  ]
+}
