@@ -18,8 +18,8 @@
     {
       "n": "All Hindi Typing Practice",
       "u": "https://vs-parihar.github.io/Typing-Practice/",
-      "d": "Typing practice for all Hindi Mangal fonts.",
-      "i": "<svg width=\"100\" height=\"100\" viewBox=\"0 0 100 100\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">   <rect x=\"10\" y=\"10\" width=\"80\" height=\"80\" rx=\"15\" fill=\"#2F46EE\"/>   <rect x=\"15\" y=\"15\" width=\"70\" height=\"65\" rx=\"10\" fill=\"#0066F1\"/>   <rect x=\"35\" y=\"30\" width=\"4\" height=\"40\" fill=\"white\">     <animate attributeName=\"opacity\" values=\"1;0;1\" dur=\"1s\" repeatCount=\"indefinite\" />   </rect>   <path d=\"M50 30H65V34H50V30Z\" fill=\"white\" fill-opacity=\"0.6\" /> </svg>",
+      "d": "",
+      "i": "<svg width=\"100\" height=\"100\" viewBox=\"0 0 100 100\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">   <rect x=\"10\" y=\"10\" width=\"80\" height=\"80\" rx=\"15\" fill=\"#1c46E5\"/>   <rect x=\"15\" y=\"15\" width=\"70\" height=\"65\" rx=\"10\" fill=\"#2166F1\"/>   <rect x=\"35\" y=\"30\" width=\"4\" height=\"40\" fill=\"white\">     <animate attributeName=\"opacity\" values=\"1;0;1\" dur=\"1s\" repeatCount=\"indefinite\" />   </rect>   <path d=\"M50 30H65V34H50V30Z\" fill=\"white\" fill-opacity=\"0.6\" /> </svg>",
       "m": "emb",
       "s": 0
     }
